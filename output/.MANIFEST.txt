@@ -1,0 +1,3 @@
+/Users/heekyung/peking_duck/output/SqlEngineTask.000003-fa4c3ba0-18a7-4296-8fd0-0a0e25bed0f6.000007.0.0-0.0.0.parquet
+/Users/heekyung/peking_duck/output/SqlEngineTask.000003-fa4c3ba0-18a7-4296-8fd0-0a0e25bed0f6.000008.0.0-0.0.0.parquet
+/Users/heekyung/peking_duck/output/SqlEngineTask.000003-fa4c3ba0-18a7-4296-8fd0-0a0e25bed0f6.000009.0.0-0.0.0.parquet
